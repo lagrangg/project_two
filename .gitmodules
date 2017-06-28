@@ -1,3 +1,6 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = https://github.com/lagrangg/submodule1
+[submodule "submodule_two"]
+	path = submodule_two
+	url = https://github.com/lagrangg/submodule_two
